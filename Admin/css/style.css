@@ -1,0 +1,88 @@
+body{
+  background-color: white;
+}
+.navbar-brand{
+  background:#eee;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  padding: 30px;
+  display: inline-block;
+  border-radius: 50px;
+  margin: 30px;
+}
+.imgback{
+  background-color: #fff;
+}
+.loginform{
+  text-align: center;
+  background-color: #222;
+}
+.log{
+  text-align: center;
+  color: #fff;
+}
+h6{
+  color: #6D6D6E;
+}
+h1{
+  color: #fff;
+}
+.foodhom{
+  text-align: left;
+}
+.fodhom{
+  text-align: right;
+  margin-right: auto;
+}
+p{
+  font-size: 18px;
+}
+.fruit{
+  text-align: left;
+}
+.herbs{
+  text-align: right;
+}
+.buiy{
+  text-align: center;
+}
+h5{
+  color: #fff;
+}
+.jumbotron {
+      color: #fff;
+      padding: 100px 25px;
+  }
+  .up{
+    text-align: center;
+  }
+.a{
+    margin: 50px auto 50px auto;
+}
+
+a{
+  background:#eee;
+ text-decoration: none;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  padding: 5px;
+  display: inline-block;
+  border-radius: 5px;
+    margin-top: 15px;
+}
+
+
+
+
+table{
+
+  border:1px solid;
+  color: black;
+}
+
+tr
+{
+  margin: 20px;
+}
